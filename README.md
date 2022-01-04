@@ -1,2 +1,0 @@
-# alis.is
-website
